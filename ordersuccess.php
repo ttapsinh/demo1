@@ -1,0 +1,1 @@
+<section style="text-align: center; font-weight: bold; color: firebrick; margin-top: 30px;font-size: 20px;">Chúc mừng bạn đã đặt hàng thành công!<br>Chúng tôi sẽ liên hệ sớm đến bạn!<br>Xin cảm ơn quý khách hàng!</section>
